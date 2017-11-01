@@ -1,4 +1,6 @@
 ## MDLWP - A Material Design Lite WordPress Theme
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKenAer%2FMDLWP.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FKenAer%2FMDLWP?ref=badge_shield)
+
 
 MDLWP is a Material Design WordPress theme(probably the first!) that uses Sass, Gulp, Bower, and of course Material Design Lite. 
 
@@ -54,3 +56,6 @@ After you've downloaded MDLWP, and run `npm install` and `gulp` from the command
 
 #### Contributors 
 - [Mark Constable](https://github.com/markc) - github updater
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKenAer%2FMDLWP.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FKenAer%2FMDLWP?ref=badge_large)
